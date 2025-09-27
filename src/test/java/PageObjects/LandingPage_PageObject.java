@@ -26,8 +26,6 @@ public class LandingPage_PageObject
 	public String vegtable_Name()
 	{
 		return driver.findElement(vegName).getText();
-		//This  is AB - MA AMMA garu code INDI
-		//Master = AB
 		
 		//This is RAVI
 	}
